@@ -1,3 +1,11 @@
+# Домашнее задание к занятию «1.4. Работа с REST API.»
+
+* [Задание №1 - Знакомство с документацией](exercise-01.md)
+* [Задание №2 - Реализация REST API](exercise-02.md)
+
+Задание желательно выполнить до следующего вебинара. Любые вопросы по решению задач задавайте в Slack.
+Присылать на проверку можно каждую задачу по отдельности или все задачи вместе. Во время проверки по частям ваша домашняя работа будет со статусом «На доработке».
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
